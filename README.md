@@ -36,3 +36,4 @@ O app conta com uma interface no estilo *dark mode*, suporte a capas de imagem v
 ```
 Desenvolvido por Nicolly Oliveira - NicollyOliveiraS
 
+Vídeo de demonstração do aplicativo: 
