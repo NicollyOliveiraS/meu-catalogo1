@@ -1,5 +1,5 @@
-import catalogoScreen from '../components/catalogoScreen';
+import CatalogoScreen from '../components/CatalogoScreen';
 
-export default function HomeScreen() {
-    return <catalogoScreen />;
+export default function Index() {
+  return <CatalogoScreen />;
 }
