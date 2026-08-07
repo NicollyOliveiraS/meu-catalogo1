@@ -36,4 +36,5 @@ O app conta com uma interface no estilo *dark mode*, suporte a capas de imagem v
 ```
 Desenvolvido por Nicolly Oliveira - NicollyOliveiraS
 
-Vídeo de demonstração do aplicativo: 
+Vídeo de demonstração do aplicativo:
+Eߣ�B��B��B�B�B��matroskaB��B��S�g�������I�f�*ױ�B@M��ChromeWA�ChromeT�k���ׁsŇ��qG1����V_MPEG4/ISO/AVC����躂�U��U��U��U��U��C�u��������
