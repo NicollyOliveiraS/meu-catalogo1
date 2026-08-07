@@ -60,7 +60,7 @@
     "subtitulo": "Raphael Montes",
     "ano": 2023,
     "descricao": "Um escritor em crise e um mágico talentoso. Entre ilusões e segredos, uma parceria que pode custar a vida de um deles.",
-    "imagem": "https://www.amazon.com.br/A-Mágica-Mortal-Raphael-Montes/dp/8535929444"
+    "imagem": "https://martinsfontespaulista.vteximg.com.br/arquivos/ids/1570387-800-800/1054153_3.jpg?v=638421568969000000"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "subtitulo": "Raphael Montes",
     "ano": 2024,
     "descricao": "Uma família perfeita em um condomínio de luxo. Mas por trás das aparências, há um jogo de manipulação que ameaça destruir tudo — e todos. Nasceu primeiro como roteiro de cinema.",
-    "imagem": "https://www.amazon.com.br/Uma-Família-Feliz-Raphael-Montes/dp/8535929444"
+    "imagem": "https://topico42.com.br/wp-content/uploads/2024/02/Uma-Familia-Feliz-Capa.webp"
   },
   {
     "id": 11,
@@ -78,7 +78,7 @@
     "subtitulo": "Netflix · Criador · 3 temporadas",
     "ano": 2020,
     "descricao": "Série original Netflix. A investigadora Verônica Torres mergulha em casos de violência doméstica e cruza com um serial killer implacável. Raphael Montes é criador e roteirista-chefe.",
-    "imagem": "https://m.media-amazon.com/images/I/71vN-8XfUHL._AC_UF1000,1000_QL80_.jpg"
+    "imagem": "https://s2.glbimg.com/IEE8V3hM-KypM9Uuw4D33SfHjNY=/e.glbimg.com/og/ed/f/original/2020/10/01/20200826-bomdiaveronica_vertical_main_rgb_pt-br_pre-691x1024.jpg"
   },
   {
     "id": 13,
@@ -87,7 +87,7 @@
     "subtitulo": "Globoplay · Série",
     "ano": 2025,
     "descricao": "Adaptação para o streaming do romance mais aclamado de Raphael Montes. A obsessão de Teo por Clarice ganha nova camada de tensão psicológica na linguagem serial.",
-    "imagem": "https://m.media-amazon.com/images/I/71B7N-0MbhL._AC_UF1000,1000_QL80_.jpg"
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmvQfiB_7_a4RBEhaJuIUwGBuiXRRMAN4iOzsf72PyZpDf7wqXB6Ij26o&s=10"
   },
   {
     "id": 14,
@@ -96,44 +96,9 @@
     "subtitulo": "Max · Criador · Novela original",
     "ano": 2025,
     "descricao": "Primeira novela original da Max no Brasil. Sofia busca vingança contra sua prima Lola no competitivo mundo da beleza e dos procedimentos estéticos. Com Camila Queiroz, Camila Pitanga e Giovanna Antonelli.",
-    "imagem": "https://m.media-amazon.com/images/I/81Iqj20K2EL._AC_UF1000,1000_QL80_.jpg"
+    "imagem": "https://vejario.abril.com.br/wp-content/uploads/2024/11/unnamed_88f230.jpg?quality=70&strip=info&w=720&crop=1"
   },
-  {
-    "id": 15,
-    "tipo": "filme",
-    "titulo": "Praça Paris",
-    "subtitulo": "Raphael Montes e Lúcia Murat",
-    "ano": 2018,
-    "descricao": "A relação tensa entre uma psicanalista portuguesa e sua paciente ascensorista revela o abismo entre mundos diferentes na violência urbana carioca. Roteiro escrito com a diretora Lúcia Murat.",
-    "imagem": "https://m.media-amazon.com/images/I/71jN6rQ55LL._AC_UF1000,1000_QL80_.jpg"
-  },
-  {
-    "id": 16,
-    "tipo": "filme",
-    "titulo": "O Menino Que Matou Meus Pais",
-    "subtitulo": "Raphael Montes e Ilana Casoy",
-    "ano": 2021,
-    "descricao": "Baseado nos autos do processo real do Caso Richthofen. Apresenta a perspectiva de Daniel Cravinhos sobre o crime que chocou o Brasil. Roteiro minuciosamente pesquisado com Ilana Casoy.",
-    "imagem": "https://m.media-amazon.com/images/I/81xUe7vLdYL._AC_UF1000,1000_QL80_.jpg"
-  },
-  {
-    "id": 17,
-    "tipo": "filme",
-    "titulo": "A Menina Que Matou os Pais",
-    "subtitulo": "Raphael Montes e Ilana Casoy",
-    "ano": 2021,
-    "descricao": "O Caso Richthofen visto pelo ângulo de Suzane von Richthofen. Lançado simultaneamente com o filme da perspectiva de Daniel, os dois se complementam para retratar o crime completo.",
-    "imagem": "https://m.media-amazon.com/images/I/81xUe7vLdYL._AC_UF1000,1000_QL80_.jpg"
-  },
-  {
-    "id": 18,
-    "tipo": "filme",
-    "titulo": "A Menina Que Matou os Pais: A Confissão",
-    "subtitulo": "Raphael Montes e Ilana Casoy",
-    "ano": 2023,
-    "descricao": "Terceiro filme da trilogia Richthofen. Foca na investigação policial e nas confissões que revelaram os detalhes mais sombrios do crime. Fecha a saga com a perspectiva da lei.",
-    "imagem": "https://m.media-amazon.com/images/I/81xUe7vLdYL._AC_UF1000,1000_QL80_.jpg"
-  },
+  
   {
     "id": 19,
     "tipo": "filme",
@@ -141,17 +106,9 @@
     "subtitulo": "Raphael Montes",
     "ano": 2024,
     "descricao": "Eva vive uma vida aparentemente perfeita com o marido e os filhos. O surgimento de hematomas inexplicáveis nas crianças a faz suspeita — de quê e de quem? Com Grazi Massafera e Reynaldo Gianecchini.",
-    "imagem": "https://m.media-amazon.com/images/I/81Iqj20K2EL._AC_UF1000,1000_QL80_.jpg"
+    "imagem": "https://s2-gshow.glbimg.com/I3qY3cHfEOEIiB7BUFgpdgwlywg=/0x0:1702x2500/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_755cbb8e98bc4df6b024f1581a117b52/internal_photos/bs/2023/p/D/kJBJqnQYmSdOIPTvzoEQ/cartaz-de-uma-familia-feliz-reduzido.jpg"
   },
-  {
-    "id": 20,
-    "tipo": "filme",
-    "titulo": "Elize: Sombras de Uma Mulher",
-    "subtitulo": "Raphael Montes · Netflix",
-    "ano": 2026,
-    "descricao": "Ficção inspirada no caso Elize Matsunaga, que chocou o Brasil em 2012. Explora a dualidade de uma mulher entre vítima e vilã, sem respostas fáceis. Com Lorena Comparato e Henrique Kimura.",
-    "imagem": "https://m.media-amazon.com/images/I/71u9sJ-e5lL._AC_UF1000,1000_QL80_.jpg"
-  },
+
   {
     "id": 21,
     "tipo": "filme",
@@ -159,6 +116,6 @@
     "subtitulo": "Raphael Montes · Netflix",
     "ano": 2026,
     "descricao": "Um casal em crise abre o relacionamento e convida uma estranha para uma noite. Quando ela morre, os dois precisam tomar medidas extremas. Thriller erótico com Paolla Oliveira e Bella Campos.",
-    "imagem": "https://m.media-amazon.com/images/I/71jN6rQ55LL._AC_UF1000,1000_QL80_.jpg"
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWd3AFQbIq66r2hR8W81g_dFJIP1KqkgYS9hhl8K_a7g&s"
   }
 ]

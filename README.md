@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# 📚 Catálogo Literário & Audiovisual — Raphael Montes
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo mobile em **React Native** desenvolvido para catalogar e exibir a coleção de obras (livros, séries e filmes) do autor e roteirista brasileiro **Raphael Montes**.
 
-## Get started
+O app conta com uma interface no estilo *dark mode*, suporte a capas de imagem via rede, filtros dinâmicos por categoria e uma animação 3D interativa de giro de cartão (*flip card*) para revelar detalhes de cada obra.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Funcionalidades
 
-2. Start the app
+- **📇 Cards Interativos (Flip Animation):** Toque em qualquer card para girá-lo em 3D e visualizar a sinopse e detalhes.
+- **🖼️ Capas Remotas Dinâmicas:** Exibição de capas de livros e banners a partir de URLs de imagem via rede.
+- **🎯 Filtros por Categoria:** Filtre facilmente entre **Todos**, **Livros**, **Séries** e **Filmes**, com contadores atualizados em tempo real.
+- **🎨 Design Temático Dark:** Estilização escura focada no universo do suspense e do *thriller*.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tecnologias Utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **[React Native](https://reactnative.dev/):** Framework para desenvolvimento mobile cross-platform.
+- **[Expo](https://expo.dev/):** Plataforma para facilitar a criação, testes e execução de apps React Native.
+- **[TypeScript](https://www.typescriptlang.org/):** Tipagem estática para garantir integridade ao código.
+- **[Animated API](https://reactnative.dev/docs/animated):** Para criar a animação interativa de rotação 3D dos cartões.
+- **JSON:** Base de dados local (`catalogo.json`) contendo as informações e URLs das obras.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📂 Estrutura do Projeto
 
-When you're ready, run:
-
-```bash
-npm run reset-project
+```text
+├── src/
+│   ├── CatalogoScreen.tsx   # Tela principal e componente do card animado
+│   └── catalogo.json        # Base de dados local com obras e links de imagens
+├── App.tsx                  # Ponto de entrada do aplicativo
+└── README.md                # Documentação do projeto
 ```
+Desenvolvido por Nicolly Oliveira - NicollyOliveiraS
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
